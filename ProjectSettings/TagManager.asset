@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Grassform
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backbackbackground
+    uniqueID: 476750595
+    locked: 0
+  - name: Backbackground
+    uniqueID: 4190252979
+    locked: 0
+  - name: Background
+    uniqueID: 3910158643
+    locked: 0
+  - name: Coins
+    uniqueID: 3048614887
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lava
+    uniqueID: 2443787549
+    locked: 0
+  - name: Player
+    uniqueID: 2771447265
+    locked: 0
+  - name: Foreground
+    uniqueID: 1777549293
+    locked: 0

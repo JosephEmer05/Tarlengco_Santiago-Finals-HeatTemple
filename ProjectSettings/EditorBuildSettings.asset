@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d4a84597e05a54a42b25d4ecf29867d8
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/End Screen.unity
+    guid: f4754461de2fbf3428d58ba078f16b0a
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 1323a585488f6984ab5ea9cc4158f178
+  - enabled: 1
+    path: Assets/Scenes/Hidden Screen.unity
+    guid: 70968e46940303c4a80ce8146be78999
+  m_configObjects: {}
